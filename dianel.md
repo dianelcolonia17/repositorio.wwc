@@ -4,5 +4,7 @@
 >E-mail: dianel_colonia17@hotmail.com
 
 ####Intereses
-*Aspectos tecnológicos
-*
+>Aspectos tecnológicos
+>Programación en Java (principiante)
+>Inglés
+>Administración de redes
